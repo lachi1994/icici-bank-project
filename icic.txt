@@ -1,1 +1,1 @@
-echo "customer dot batch"
+echo "customer dot batch of icicic bank"
